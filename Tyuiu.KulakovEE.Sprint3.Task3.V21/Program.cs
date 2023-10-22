@@ -14,7 +14,7 @@ namespace Tyuiu.KulakovEE.Sprint3.Task3.V21
             DataService ds = new DataService();
             string str = "f3g5ht g4j 34kg4m";
             char e = 'e';
-            Console.Title = "Спринт #3 | Выполнил: Кулаков Е.Е. | АСОиУб-23-1";
+            Console.Title = "Спринт #3 | Выполнил: Кулаков Егор Евгеньевич | АСОиУб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла foreach                                            *");
